@@ -2,8 +2,6 @@
 
 ## tntando fazer um reprodutor de música! 😐😐
 
-![text](https://raw.githubusercontent.com/ArthurYamori/reprodutor_music/main/Preview_site/icon.png)
-
 é so um teste e nele contem:
 
 1. Animações
@@ -16,3 +14,4 @@ Você pode acessar o site atrevés do link 👉 https://musicreprodutor.netlify.
 Um breve preview do site:
 ![text](https://raw.githubusercontent.com/ArthurYamori/reprodutor_music/main/Preview_site/1.png)
 ![text](https://raw.githubusercontent.com/ArthurYamori/reprodutor_music/main/Preview_site/2.png)
+![text](https://raw.githubusercontent.com/ArthurYamori/reprodutor_music/main/Preview_site/icon.png)
